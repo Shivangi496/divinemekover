@@ -1,0 +1,15 @@
+/* ImageSlider.css */
+
+/* Container for the Swiper */
+.image-slider-container {
+  width: 100%;
+  margin: auto;
+  /* padding-top: 50px; */
+}
+
+/* Style for each image in the SwiperSlide */
+.image-slide {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}

@@ -1,0 +1,26 @@
+#hero {
+  display: flex;
+  margin: 40px;
+}
+
+.hero-text {
+  margin: 30px;
+}
+
+.hero-heading {
+  font-size: 40px;
+  color: brown;
+  flex-direction: column;
+}
+
+.hero-paragraph {
+  flex-direction: column;
+  font-size: 20px;
+}
+
+.hero-image {
+  margin: 30px;
+  margin-top: 40px;
+  width: 70vh;
+  height: 70vh;
+}

@@ -1,0 +1,15 @@
+.container{
+  background-color: rgb(114, 130, 130);
+  text-align: center;
+  justify-content:center ;
+  margin-top: 0 auto;
+  margin-bottom: 30px;
+}
+.brands{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  gap: 10px;
+  margin: 10px;
+  autoPlay:true;
+}
